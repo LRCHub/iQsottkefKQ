@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "街路、ライトの灯りだけ",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-03-01T05:05:42.685374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "街路、ライトの灯りだけ",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/01_街路、ライトの灯りだけ_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "街路、ライトの灯りだけ",
+      "artist": "三月のパンタシア",
+      "has_synced": true,
+      "path": "select/02_街路、ライトの灯りだけ_三月のパンタシア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "街路、ライトの灯りだけ",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_街路、ライトの灯りだけ_三月のパンタシア.txt"
+    }
+  ]
+}
